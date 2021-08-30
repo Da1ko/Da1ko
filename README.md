@@ -1,5 +1,4 @@
 # About me
-- He / Him
 - _Computer Engineering student of the School of Engineering of Universidad Nacional Autónoma de México (UNAM)._
 - Interested in A.I. (Artificial Intelligence)
 - Spanish / English / A bit of Italian
