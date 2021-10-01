@@ -1,5 +1,5 @@
 # About me
-- _Computer Engineering student of the School of Engineering of Universidad Nacional Autónoma de México (UNAM)._
+- _Computer Engineering student of Facultad de Ingeniería of Universidad Nacional Autónoma de México (UNAM)._
 - Interested in A.I. (Artificial Intelligence)
 - Spanish / English
 - Programming Languages: C 
