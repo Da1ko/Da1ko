@@ -1,7 +1,6 @@
 # About me
-- _Computer Engineering student of Facultad de Ingeniería of Universidad Nacional Autónoma de México (UNAM)._
-- Spanish / English
-- Programming Languages: C 
+- _Facultad de Ingeniería | Universidad Nacional Autónoma de México (UNAM)._
+
 # Daily remember 
 ```
 SMILE
